@@ -1,0 +1,33 @@
+<div class="d-flex" id="wrapper">
+        <!-- Sidebar  -->
+        <div class="col-lg-2">
+        <div class="cs-tab cs-tab-left cs-tab-accent" id="sidebar-wrapper">           
+            <div class="cs-tab-nav bs-tab-nav">
+                
+                <a href="#" class="list-group-item list-group-item-action bg-light">HOME</a>
+
+                <a href="#" class="list-group-item list-group-item-action bg-light">Important Dates</a>
+               
+                <a href="#" class="list-group-item list-group-item-action bg-light">Call for papers</a>              
+                
+                <a href="#" class="list-group-item list-group-item-action bg-light">Workshops</a>
+                
+                <a href="#" class="list-group-item list-group-item-action bg-light">Submissions</a>
+                
+                <a href="#" class="list-group-item list-group-item-action bg-light">Organization</a>
+               
+                <a href="#" class="list-group-item list-group-item-action bg-light">Registration</a>
+                
+                <a href="#" class="list-group-item list-group-item-action bg-light">Venue</a>
+            </div>            
+        </div>
+        </div>
+
+        <!-- Page Content  -->
+        <div class="container-fluid">
+
+            <h2>Collapsible Sidebar Using Bootstrap 4</h2>
+           
+        </div>
+
+    </div> 
